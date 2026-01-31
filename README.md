@@ -1,5 +1,3 @@
-Demo: https://drive.google.com/file/d/1UugVi7ufPqaLDJQCZDGacpPkfpypxwCQ/view?usp=sharing
-
 # Quickstart
 
 ```
